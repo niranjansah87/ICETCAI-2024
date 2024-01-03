@@ -5,7 +5,9 @@ body {
   background-color:whitesmoke;
   padding-bottom: 5rem;
 }
-
+p{
+  text-align: justify;
+}
 .navbar {
   background-color: white;
   font-family: "Laila", serif;
@@ -26,7 +28,7 @@ body {
 }
 
 .sectionHeading {
-  text-align: justify;
+  text-align: center;
   /* text-align: ; */
   margin-block: 30px;
   font-family: "Laila", serif;
@@ -35,6 +37,7 @@ body {
   font-weight: bold;
   color: red;
 }
+
 /* .aboutcsit{
   text-align: center;
   margin-block: 30px;
